@@ -1,4 +1,4 @@
-var images = ["background.jpg","inline-Audi.jpg"];
+var images = ["background.jpg","car-audi.webp","car-ajo.webp"];
 $(function () {
     var i = 0;
     $(".card").attr('src',"images/" + images[i]);
