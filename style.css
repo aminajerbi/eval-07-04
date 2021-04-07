@@ -1,13 +1,24 @@
 *{
     margin: 0%;
 }
+.containerbt{
+    width: 100%;
+    height: 50px;
+}
 
-
-.card-img{
-    /* width: 100%;
-    height: 500px; */
+.card{
+    width: 100%;
+    height: 500px;
     object-fit: cover;
 }
+
 .car-container{
     display: flex;
+}
+
+.footer{
+    height: 200px;
+}
+.agence{
+    height: 100px;
 }
